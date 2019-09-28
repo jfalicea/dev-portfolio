@@ -29,7 +29,7 @@
     $('#to-top').click(function() {
         $('html, body').animate({
             scrollTop: 0
-        }, 500);
+        },500);
     });
 
     // Scroll to first element
